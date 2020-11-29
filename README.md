@@ -1,2 +1,2 @@
 # SanskritFever
-Computer game for learning saskrit grammar.
+Computer game for learning sanskrit grammar.
